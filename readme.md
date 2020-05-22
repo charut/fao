@@ -6,6 +6,11 @@ Play on Heroku: https://fake-artist-max14.herokuapp.com/
 
 Tech: Vue, Express, Socket.io, Webpack, Mocha
 
+## Changing Max Number of Players
+
+- [Adjust `MAX_USERS`](https://github.com/charut/fao/blob/f725fd1ec074857a612f2565daf33cdde20ca394/src/server/game-room.js#L8)
+- [Add more colors](https://github.com/charut/fao/blob/master/src/public/js/playerColors.js)
+
 ## Develop
 
 Watch-build public: `npm run watch-p`
