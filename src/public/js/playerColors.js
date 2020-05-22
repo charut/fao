@@ -9,7 +9,10 @@ const HEX = {
 	PURPLE: '#9900ee',
 	PINK: '#ee77ff',
 	BROWN: '#a56729',
-	GREY: '#808080',
+	LIGHTGREY: '#d3d3d3',
+	DARKGREY: '#a9a9a9',
+	LIGHTCYAN: '#99ffff',
+	TAN: '#d2b48c',
 };
 
 const ORDER = [
@@ -23,7 +26,10 @@ const ORDER = [
 	'PINK',
 	'MAGENTA',
 	'BROWN',
-	'GREY',
+	'LIGHTGREY',
+	'DARKGREY',
+	'LIGHTCYAN',
+	'TAN',
 ];
 
 export { HEX, ORDER };
