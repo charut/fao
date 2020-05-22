@@ -1,8 +1,8 @@
-# Fake Artist Online
+# Fake Artist Online _with 14 people_
 
 An online party game based on Oink Games' tabletop game, _A Fake Artist Goes to New York_. Draw with your phone or a mouse.
 
-Play on Heroku: https://kc-fakeartistonline.herokuapp.com/
+Play on Heroku: https://fake-artist-max14.herokuapp.com/
 
 Tech: Vue, Express, Socket.io, Webpack, Mocha
 
